@@ -1,0 +1,56 @@
+body{
+  /*background-color: lightgray; */
+
+}
+
+.heading{
+  margin: auto;
+  text-align: center;
+  width: 80%;
+}
+
+.btn-right{
+  float: right;
+  margin-right: 5%;
+}
+
+.btn-left{
+  float: left;
+  margin-left: 5%;
+}
+
+.circular {
+  margin: auto;
+  margin-top: 7%;
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(./dummy1.jpg) no-repeat;
+	}
+
+.container{
+  margin-top: 7%;
+}
+
+.articles{
+  margin: auto;
+  margin-top: 7%;
+  width: 80%;
+
+  text-align: center;
+
+}
+
+.article-left{
+
+}
+
+.article-centre{
+
+}
+
+.article-right{
+
+}
